@@ -43,5 +43,6 @@ Please enter the time in hours:
 Output:
 
 10.5 hours is equal to 37800 seconds.
+
 10.5 hours is equal to 630 minutes and 37800 seconds.
 

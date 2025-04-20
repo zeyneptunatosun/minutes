@@ -29,12 +29,17 @@ Open the project in your favorite IDE (e.g., IntelliJ IDEA, Eclipse).
 Compile and run the Main.java file.
 The program will prompt you to enter time in hours (as a floating-point number).
 The program will output the time in seconds and minutes, rounded to the nearest integer.
-Example
 
+
+
+Example
 
 Input:
 Please enter the time in hours:
 10.5
+
+
+
 Output:
 
 10.5 hours is equal to 37800 seconds.
